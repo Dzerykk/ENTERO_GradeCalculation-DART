@@ -1,0 +1,4 @@
+Student: Jeric Entero
+Attendance: 95%
+GWA: 95.90000000000002
+Did Jeric Entero Passed? true
